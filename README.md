@@ -5,8 +5,6 @@ Project Name: Caring Aunt
 Author: Bhavleen Singh Manaktala
 ```
 
-![Welcome](https://res.cloudinary.com/dnja3kt1q/image/upload/v1593366180/logo/welcome_l3ugdr.jpg)
-
 ### Deployed URL's
 
 [Mongo Link](https://caring-aunt.herokuapp.com)

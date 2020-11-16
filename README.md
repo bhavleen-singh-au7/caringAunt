@@ -13,7 +13,7 @@ Author: Bhavleen Singh Manaktala
 
 ## Brief About of Project
 
-First of all our project is gender-specific, will beneficial for females, once the user signed up with our website from their onwards tracking of there periods is not a mess anymore for them.
+First of all this project is gender-specific, will beneficial for females, once the user signed up with this website from their onwards tracking of there periods is not a mess anymore for them.
 
 We'll be giving each and every single details of their menstrual cycle details on their phone via **Text Messages**.
 
@@ -47,7 +47,7 @@ Let's take a tour of our project.
     - periodLength
 
   > Here all fields are required
-  > By upper detail we will be calculating users future period dates and keep on reminding user 1 day prior to her period date via **text messages**
+  > By upper detail I will be calculating users future period dates and keep on reminding user 1 day prior to her period date via **text messages**
 
   > From tomorrow onwards your period is starting.
 
@@ -64,7 +64,7 @@ Let's take a tour of our project.
   > This is a Patch Route
 
   - Here user can update her past given details.
-  - By that, we will be calculating the notify date again.
+  - By that, I will be calculating the notify date again.
 
 ### 5. User can see her Menstrual Cycle Statistics.
 
